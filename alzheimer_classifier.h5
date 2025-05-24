@@ -1,0 +1,1 @@
+model.save("alzheimer_classifier.h5")
